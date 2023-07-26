@@ -1,0 +1,8 @@
+MAX_MEMORY = 100_000
+BATCH_SIZE = 1000
+LR = 0.001
+
+foi usada leaky relu
+nova arquitetura usando 4 camadas conetadas
+usando batchnormaliazation
+nao e usado batch norm na ultima camada
